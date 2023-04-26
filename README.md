@@ -1,6 +1,5 @@
-- 👋 Olá, eu sou Sanderson Luiz Celestino, <br>estudante FullStack da escola Labenu de Programação!<br>
-- Olá, meu nome é Sanderson Luiz e sou um desenvolvedor Full Stack com 34 anos de idade. Possuo habilidades em várias tecnologias como HTML, CSS, React, NodeJS, Express, SQL, Knex e TypeScript.
-- <br>
+
+Olá, meu nome é Sanderson Luiz e sou um desenvolvedor Full Stack com 34 anos de idade. Possuo habilidades em várias tecnologias como HTML, CSS, React, NodeJS, Express, SQL, Knex e TypeScript. <br>
 
 Tenho uma vasta experiência em desenvolvimento de aplicativos web e sou capaz de criar interfaces de usuário atraentes e responsivas usando HTML e CSS. Além disso, sou especialista em tecnologias backend como NodeJS, Express e SQL, o que me permite trabalhar com bancos de dados, projetar esquemas de banco de dados e escrever consultas SQL eficientes.
 <br>
