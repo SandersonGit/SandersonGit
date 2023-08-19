@@ -33,4 +33,4 @@ Se você está procurando um desenvolvedor Full Stack confiável e com habilidad
   <hr>
  <br>
  
- ![Snake animation](https://github.com/SandersonGit/SandersonGit/blob/output/github-contribution-grid-snake.svg)
+
