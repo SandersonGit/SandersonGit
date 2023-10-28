@@ -24,14 +24,15 @@
 
 ## Experiência Educacional
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (1º período)
-- 🎓 Bootcamp da Labenu com mais de 2000 horas de código em um período de 12 meses.
-- 🎯 Atualmente estudando Engenharia Front-end na Escola EBAC.
+- 🎓 Bootcamp da Labenu com mais de 1000 horas de código em um período de 12 meses.
+- 🎯 Atualmente estudando Engenharia Front-end na Escola EBAC para especialização.
 
 Vamos construir algo incrível juntos! Entre em contato e vamos conversar sobre como posso contribuir para o seu projeto. 😊💬
 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/sanderson-luiz/)
 - [Email](sandersonluiz1988@gmail.com)
+- [Zap](21933002266)
 
 Mal posso esperar para colaborar em projetos incríveis. Vamos juntos em direção a um futuro cheio de possibilidades! 🚀🌟
 <br>
