@@ -18,12 +18,14 @@
 - 🧠 Ansioso para adquirir mais conhecimento e experiência enquanto atuo como desenvolvedor junior.
 
 ## Minhas Tecnologias
-- 🖥️ HTML, CSS, JavaScript, React.js, Node.js, Express, MySQL, SQLite
+- 🖥️ HTML, CSS, JavaScript, React.js, TypeScript, Node.js, Express, MySQL, SQLite
 - ⚙️ Iniciando em Desenvolvimento Web e Programação Orientada a Objetos (POO)
 - 📚 Aprendendo sempre!
 
 ## Experiência Educacional
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (1º período)
+- 🎓 Bootcamp da Labenu com mais de 2000 horas de código em um período de 12 meses.
+- 🎯 Atualmente estudando Engenharia Front-end na Escola EBAC.
 
 Vamos construir algo incrível juntos! Entre em contato e vamos conversar sobre como posso contribuir para o seu projeto. 😊💬
 
