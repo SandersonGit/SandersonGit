@@ -33,6 +33,7 @@ Vamos construir algo incrível juntos! Entre em contato e vamos conversar sobre 
 
 Mal posso esperar para colaborar em projetos incríveis. Vamos juntos em direção a um futuro cheio de possibilidades! 🚀🌟
 <br>
+<br>
 "O que fazemos na vida ecoa na eternidade." - J.R.R. Tolkien
 
 <br>
