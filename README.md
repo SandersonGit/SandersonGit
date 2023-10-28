@@ -32,7 +32,7 @@ Vamos construir algo incrível juntos! Entre em contato e vamos conversar sobre 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/sanderson-luiz/)
 - [Email](sandersonluiz1988@gmail.com)
-- [Zap](21933002266)
+
 
 Mal posso esperar para colaborar em projetos incríveis. Vamos juntos em direção a um futuro cheio de possibilidades! 🚀🌟
 <br>
